@@ -1,13 +1,12 @@
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
 ---
 layout: cv
 title: Isaac Newtons's CV
 ---
 # Samy KARAM
 Auditeur en sécurité offensive.
-
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 <div id="webaddress">
 <a href="karam.sami88@gmail.com">karam.sami88@gmail.com</a>
 | <a href="https://www.linkedin.com/in/samikaram/">LinkedIn</a>
